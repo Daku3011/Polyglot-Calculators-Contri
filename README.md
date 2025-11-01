@@ -41,3 +41,12 @@ This project is licensed under the **MIT License** — meaning you’re free to 
 
 ### 🌟 Join the Community
 If you like this initiative, **give it a ⭐** and help make this the ultimate open-source calculator hub!
+
+---
+
+## 🧰 Current Calculators
+
+| Calculator Name | Programmin Language | Contributors |
+| :--- | :--- | :--- |
+| `SimpleCalculator-C` | C | [@B3rou](https://github.com/B3rou) |
+
