@@ -5,6 +5,15 @@ This repository is open for **any kind of calculator project**, from basic math 
 
 ---
 
+## ‼️ Important
+Make sure your Nickname and Email are linked properly, otherwise you'll not be able to listed in contributors!!
+```
+git config --global user.name "YourNickname"
+git config --global user.email "YOUR@MAIL.com"
+```
+
+---
+
 ## 🧮 What You Can Add
 You can contribute:
 - A **new calculator** in any programming language  
@@ -22,7 +31,7 @@ Please keep the repository organized by following this format:
 CalculatorName-Language-or-Type/
 │
 ├── main.<extension> # Your source code
-└── README.md # (Optional) Short description or usage guide
+└── README.md # (Optional) Short description or usage guide (I'ld really appreciate if you'ld add one instead of me)
 ```   
 > Example:  
 > `SimpleCalculator-C/main.c`  
