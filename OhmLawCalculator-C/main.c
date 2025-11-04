@@ -39,6 +39,10 @@ int main() {
             scanf("%f", &V);
             printf("Enter Resistance (R) in Ohms: ");
             scanf("%f", &R);
+            if (R == 0){
+                printf("Can't divide by zero, terminating...");
+                return 0;
+            }
             I = V / R;
             printf("\nCurrent = %.2f Amperes\n", I);
             break;
@@ -49,6 +53,10 @@ int main() {
             scanf("%f", &V);
             printf("Enter Current (I) in Amperes: ");
             scanf("%f", &I);
+            if (I == 0){
+                printf("Can't divide by zero, terminating...");
+                return 0;
+            }
             R = V / I;
             printf("\nResistance = %.2f Ohms\n", R);
             break;
