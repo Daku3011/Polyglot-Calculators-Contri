@@ -31,11 +31,11 @@ public class Main{
         //Based on choice, call correct method and print result
         if(choice == 1){
             float celsius = getCelsius(temp);
-            System.out.printf("%.2f", celsius);
+            System.out.printf("%.1f", celsius);
             System.out.println();
         }else{
             float fahrenheit = getFahrenheit(temp);
-            System.out.printf("%.2f", fahrenheit);
+            System.out.printf("%.1f", fahrenheit);
             System.out.println();
         }        
     }
