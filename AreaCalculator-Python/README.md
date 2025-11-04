@@ -47,7 +47,7 @@ Enter choice (1-5): 1
 Enter the radius of the circle: 10
 
 --- Result ---
-The area of a circle with radius 10.0 is: 314.1593
+The area of a circle with radius 10 is: 314.1593
 -------------------------
 ```
 
@@ -56,6 +56,8 @@ The area of a circle with radius 10.0 is: 314.1593
 ## 🧑‍💻 Author
 
 Contributed by [ifauzeee](https://github.com/ifauzeee)  
+Enhanced by [B3rou](https://github.com/B3rou)
+
 Added as part of the **Awesome Calculators** collection.  
 
 ---
