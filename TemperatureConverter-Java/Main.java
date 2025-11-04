@@ -9,8 +9,8 @@ public class Main{
         // Read in Input
         Scanner scan = new Scanner(System.in);
         System.out.println("Temperature Converter");
-        System.out.println("Option 1: Farenheit -> Celcius");
-        System.out.println("Option 2: Celcius -> Farenheit");
+        System.out.println("Option 1: Fahrenheit -> Celsius");
+        System.out.println("Option 2: Celsius -> Fahrenheit");
         System.out.println("Please enter 1 or 2 for the conversion type:    ");
         int choice = scan.nextInt();
 
@@ -30,28 +30,30 @@ public class Main{
 
         //Based on choice, call correct method and print result
         if(choice == 1){
-            float celcius = getCelcius(temp);
-            System.out.println(celcius);
+            float celsius = getCelsius(temp);
+            System.out.printf("%.2f", celsius);
+            System.out.println();
         }else{
-            float farenheit = getFarenheit(temp);
-            System.out.println(farenheit);
+            float fahrenheit = getFahrenheit(temp);
+            System.out.printf("%.2f", fahrenheit);
+            System.out.println();
         }        
     }
 
-    // Method to convert farenheit to celcius
-    public static float getCelcius(float farenheit){
+    // Method to convert fahrenheit to celsius
+    public static float getCelsius(float fahrenheit){
 
-        float celcius = (farenheit - 32) * 5/9;
+        float celsius = (fahrenheit - 32) * 5/9;
         
-        return celcius;
+        return celsius;
     }
 
-    // Method to convert celcius to farenheit
-    public static float getFarenheit(float celcius){
+    // Method to convert celsius to fahrenheit
+    public static float getFahrenheit(float celsius){
 
-        float farenheit = (celcius * 9/5) + 32;
+        float fahrenheit = (celsius * 9/5) + 32;
 
-        return farenheit;
+        return fahrenheit;
     }
 
 }
