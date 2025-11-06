@@ -53,7 +53,7 @@ Current Unique Contributor Amount is  10!
 | :--- | :--- | :--- |
 | `SimpleCalculator-C` | C | [@B3rou](https://github.com/B3rou) |
 | `SimpleCalculator-Python-Sujal2114` | Python | [@Sujal2114](https://github.com/Sujal2114) / [@B3rou](https://github.com/B3rou) (README.md file)|
-| `SimpleCalculator-Python-ifauzeee` | Python | @ifauzeee](https://github.com/ifauzeee) |
+| `SimpleCalculator-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
 | `SimpleCalculator-Java` | Java | [@yummyash](https://github.com/yummyash) / [@B3rou](https://github.com/B3rou) (README.md file)|
 | `SimpleCalculator-Web` | Html/Js/Css | [@ifauzeee](https://github.com/ifauzeee) |
 | `SimpleCalculator-C++` | C++ | [@Daku3011](https://github.com/Daku3011) / [@B3rou](https://github.com/B3rou) |
