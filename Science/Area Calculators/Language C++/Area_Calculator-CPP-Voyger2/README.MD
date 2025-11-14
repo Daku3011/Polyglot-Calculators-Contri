@@ -14,16 +14,15 @@
 ## Requirements
 - Any C++ compiler works
 
-
 ## Error-Handling
-    
+- Non-Numeric integers prohibited
+- Invalid shape selection
                                                                       
-
 ### Compile the Code
 Navigate to the directory containing `main.cpp` and use the C++ compiler (`g++`) to build the executable:
 ```
-g++ main.cpp -o calculator
-./calculator
+g++ main.cpp -o area_calculator
+./area_calculator
 ```
 
 
