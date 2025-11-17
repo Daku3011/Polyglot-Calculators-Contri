@@ -47,7 +47,7 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is **29**!
+Current Unique Contributor Amount is **31**!
 
 
 | Calculator Name | Programming Language | Contributors |
@@ -56,6 +56,7 @@ Current Unique Contributor Amount is **29**!
 | | | |
 | | | |
 | --- **🧪 Science** --- | | |
+| `ScientificCalculator-Php-Hodemcsuk` | Php | [@Hodemcsuk](https://github.com/Hodemcsuk) |
 | `TemperatureConverter-Java-Ayden939` | Java | [@Ayden939](https://github.com/Ayden939) |
 | `TemperatureConverter-C-Daku3011` | C | [@Daku3011](https://github.com/Daku3011) |
 | `TemperatureConverter-Cpp-Voyger2` | C++ | [@Voyger2](https://github.com/Voyger2) |
@@ -79,7 +80,8 @@ Current Unique Contributor Amount is **29**!
 | | | |
 | --- **🛠️ Utility / Daily Life** --- | | |
 | `TimeZoneConverter-Python` | Python | [@ifauzeee](https://github.com/ifauzeee) |
-| `DurationConverter-Java-Avinash262718h` | Java| [@Avinash262718h](https://github.com/Avinash262718h) |
+| `DurationConverter-Java-Avinash262718h` | Java | [@Avinash262718h](https://github.com/Avinash262718h) |
+| `DurationConverter-C++-abdllahmaher` | C++ | [@abdllahmaher](https://github.com/abdllahmaher) |
 | `DataStorageConverter-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
 | `DataStorageConverter-Java-umer901` | Java | [@umer901](https://github.com/umer901) |
 | `DataStorageConverter-Python-jaideepkathiresan` | Python | [@jaideepkathiresan](https://github.com/jaideepkathiresan) |
