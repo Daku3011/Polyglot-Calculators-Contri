@@ -47,7 +47,7 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is **32**!
+Current Unique Contributor Amount is **34**!
 
 
 | Calculator Name | Programming Language | Contributors |
@@ -82,6 +82,7 @@ Current Unique Contributor Amount is **32**!
 | `TimeZoneConverter-Python` | Python | [@ifauzeee](https://github.com/ifauzeee) |
 | `DurationConverter-Java-Avinash262718h` | Java | [@Avinash262718h](https://github.com/Avinash262718h) |
 | `DurationConverter-C++-abdllahmaher` | C++ | [@abdllahmaher](https://github.com/abdllahmaher) |
+| `DurationConverter-Python-MAXXIMUX12` | Python | [@MAXXIMUX12](https://github.com/MAXXIMUX12) |
 | `DataStorageConverter-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
 | `DataStorageConverter-Java-umer901` | Java | [@umer901](https://github.com/umer901) |
 | `DataStorageConverter-Python-jaideepkathiresan` | Python | [@jaideepkathiresan](https://github.com/jaideepkathiresan) |
@@ -101,6 +102,7 @@ Current Unique Contributor Amount is **32**!
 | `SimpleCalculatorCLI-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
 | `SimpleCalculatorCLI-Python-Kamalesh-choudhary` | Python | [@Kamalesh-choudhary](https://github.com/Kamalesh-choudhary) |
 | `SimpleCalculatorCLI-Python-kInNoVaIDa` | Python | [@kInNoVaIDa](https://github.com/kInNoVaIDa) |
+| `SimpleCalculatorCLI-Python-wwohyzzh` | Python | [@wwohyzzh](https://github.com/wwohyzzh) |
 | `SimpleCalculatorGUI-Python-Avnoor000` | Python | [@Avnoor000](https://github.com/Avnoor000) |
 | `SimpleCalculatorCLI-Java-yummyash` | Java | [@yummyash](https://github.com/yummyash) / [@B3rou](https://github.com/B3rou) (README.md file)|
 | `SimpleCalculatorCLI-Java-Perouvianoss` | Java | [@Perouvianoss](https://github.com/Perouvianoss) |

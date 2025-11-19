@@ -1,4 +1,4 @@
- def convert_duration(value, source_unit, target_unit):
+def convert_duration(value, source_unit, target_unit):
     units = {
         "second": 1,
         "minute": 60,
