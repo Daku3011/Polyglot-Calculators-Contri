@@ -47,7 +47,7 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is **34**!
+Current Unique Contributor Amount is **35**!
 
 
 | Calculator Name | Programming Language | Contributors |
