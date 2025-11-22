@@ -47,7 +47,7 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is **29**!
+Current Unique Contributor Amount is **41**!
 
 
 | Calculator Name | Programming Language | Contributors |
@@ -68,6 +68,7 @@ Current Unique Contributor Amount is **29**!
 | `OhmsLawCalculator-Python-Daku3011` | Python | [@Daku3011](https://github.com/Daku3011) / [@B3rou](https://github.com/B3rou) |
 | `OhmsLawCalculator-Python-CrossGo14` | Python | [@CrossGo14](https://github.com/CrossGo14) / [@B3rou](https://github.com/B3rou) |
 | `OhmsLawCalculator-Python-NikhilYadav04`| Python | [@NikhilYadav04](https://github.com/NikhilYadav04) |
+| `Ohm-WaveCalculatorGUI-Python-Avnoor000` | Python | [@Avnoor000](https://github.com/Avnoor000) |
 | | | |
 | | | |
 | | | |
@@ -87,6 +88,7 @@ Current Unique Contributor Amount is **29**!
 | `CookingConverter-Python-xyzarnav` | Python | [@xyzarnav](https://github.com/xyzarnav) |
 | `CryptoCalculator-Go-vishwasio` | Go | [@vishwasio](https://github.com/vishwasio) |
 | `DistanceConverter-Python-Jeevaanandh` | Python | [@Jeevaanandh](https://github.com/Jeevaanandh) |
+| `MassConverter-Python-abarlow4944` | Python | [@abarlow4944](https://github.com/abarlow4944) |
 | | | |
 | | | |
 | | | |
