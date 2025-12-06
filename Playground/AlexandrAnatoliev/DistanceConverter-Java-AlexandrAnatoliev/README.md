@@ -1,7 +1,8 @@
-# Distances Converter CLI 
+# Distance Converter CLI 
 Simple utility to convert between common distance units.
 
 > **Author:** Alexandr Anatoliev
+
 > **GitHub:** [AlexandrAnatoliev](https://github.com/AlexandrAnatoliev)
 
 ---
@@ -25,7 +26,7 @@ Simple utility to convert between common distance units.
   - ARS   arshin
   - SAZ   sazhen
   - VRST  versta
-* Enchanced console output with ANSI colors
+* Enhanced console output with ANSI colors
 * Provides clear error messages for invalid input
 
 ---
